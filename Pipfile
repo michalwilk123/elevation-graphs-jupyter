@@ -8,6 +8,7 @@ pandas = "*"
 numpy = "*"
 ipywidgets = "*"
 ipyleaflet = "*"
+matplotlib = "*"
 
 [dev-packages]
 
